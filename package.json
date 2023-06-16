@@ -1,0 +1,22 @@
+{
+  "name": "create-tailwind-library",
+  "version": "0.1.0",
+  "description": "Easily create a library on top of tailwindcss without compromising tailwind benefits or going against tailwind design principles",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tailwindcss",
+    "template",
+    "starter",
+    "library",
+    "typescript"
+  ],
+  "author": "slinkardbrandon@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^7.0.0",
+    "typescript": "^5.1.3"
+  }
+}
